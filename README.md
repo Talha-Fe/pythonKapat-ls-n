@@ -1,2 +1,2 @@
-# pythonKapat-ls-n
-python kapatılsın
+# pythonKapatilsin
+pythondan nefret ediyorum.
